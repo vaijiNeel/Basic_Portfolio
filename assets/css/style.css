@@ -1,0 +1,207 @@
+
+body {
+	font-family: Arial, "Helvetica Neue", Helvetica, "sans serif";
+	color: gray;
+}
+	
+footer {
+	border-top: 8px solid #20B2AA;
+    padding: 2.2em;
+    color: white;
+    background-color: gray;
+    clear: left;
+    text-align: center;
+}
+
+.ftr {
+	float: left;
+	display: block;
+	width: 95.6%;
+}
+
+h1 {
+	font-family: "Sans Serif", Georgia, "Times New Roman";
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	background-color: #20B2AA;
+	font-size: 30px;
+	max-width: 40%;
+	padding: 30px;	
+	margin-left: 10%;
+	float: left;	
+}
+
+ul {
+	list-style-type: none;
+	width: 30%;
+	float: right;	
+}
+
+li {	
+	font-size: 	18px;
+	padding: 10px;
+	display: inline-block;	
+	border-right: 1px solid lightgray;
+	margin-top: 25px;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+h2{
+	font-family: "Sans Serif", Georgia, "Times New Roman";
+	color: #20B2AA;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-bottom: 1.5px solid lightgray;
+}
+
+h3 {
+	font-family: "Sans Serif", Georgia, "Times New Roman";
+	color: #20B2AA;
+	font-size: 22px;
+	font-weight: bold;
+	padding: 20px;
+	border-bottom: 1.5px solid lightgray;
+}
+
+section {
+	clear: both;
+	background-image: url("../images/brushed_alu.png");
+	min-width: 100%;
+	padding-top: 35px;
+	padding-bottom: 38px;
+}
+
+.cont1 {
+	padding-bottom: 130px;
+}
+
+div.art1 {
+	margin-left: 160px;
+	background-color: white;
+	width: 45%;
+	height: 500px;
+	display: inline-block;
+	padding-left: 25px;
+	padding-top: 10px;
+	padding-right: 25px;
+}
+
+div.art2 {
+	margin-right: 320px;
+	background-color: white;	
+	float: right;
+	width: 275px;
+	height: 175px;	
+}
+
+#myImg {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	padding-top: 20px;
+}
+
+#para1 {
+	padding-top: 10px;
+	float: left;
+	width: 450px;
+	display: inline;
+	line-height: 2.0;
+	word-spacing: 10px;
+}
+
+#para2 {	
+	padding-top: 10px;
+	float: left;
+	width: 650px;
+	height: 100px;
+	display: inline;
+	line-height: 2.0;
+	word-spacing: 10px;
+}
+
+
+.contact {
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.lbl {
+	margin-top: : 45px;
+	margin-left: 25px;
+}
+
+.cnt {
+	margin-top: 5px;
+	margin-left: 25px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	size: 35px;
+}
+
+.cnt1 {
+	padding-left: 24px;
+	margin-bottom: 25px;
+}
+
+.btn {
+	background-color: #20B2AA;
+	color: white;
+	font-weight: normal;
+	font-size: 16px;
+	width: 100px;
+	height: 35px;
+}
+
+/*portfolio styles*/
+
+.cont2 {
+	padding-bottom: 0px;
+}
+
+.artCnt1 {
+	padding-bottom: 860px;
+}
+
+.portImg {
+	/*position: absolute;*/
+}
+
+table {
+	border: none;
+}
+
+.portfl1 {
+	width: 300px;
+	height: 300px;
+	position: relative;
+	float: left;
+	margin: 10px;
+}
+
+.spanImg {	
+	margin-top: 200px;
+	margin-left: 10px;
+	padding-left: 10px;
+	padding-top: 10px;
+	position: absolute;
+	width: 290px;
+	height:30px;
+	background-color: #20B2AA;
+	text-align: center;
+}
+
+.imgs1 {	
+	color: white;
+	font-weight: normal;
+	font-size: 16px;
+	
+}
